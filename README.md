@@ -1,4 +1,7 @@
 # Pika2---minigame
+
+![pikachu](previmg.png)
+
 Short mini-game where you fight and evade enemies as pikachu on two parallel platforms. Apologies for the messy directory, but it should work as long as you run main.py.
 
 ![pikachu](pstateleft.png)
@@ -14,3 +17,5 @@ Controls:
 Music composed by me, art by me, made in pixilart.
 
 Click the video thumbnail below to see a preview of the project:
+
+[![videoprev](https://img.youtube.com/vi/7f2ZmgWs-uw/0.jpg)](https://www.youtube.com/watch?v=7f2ZmgWs-uw)
